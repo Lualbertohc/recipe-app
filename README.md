@@ -1,3 +1,7 @@
+<div>
+<img align="center" alt="Header" src="http://www.easthamptonstar.com/sites/default/files/20221027_FOOD_220817-EP-CarissasSH-008-Web.jpg" />
+</div>
+
 <h1 align="center"> :yum: Projeto Recipe App :watermelon: </h1>
 
 <p align="center">
