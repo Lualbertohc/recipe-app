@@ -14,6 +14,11 @@
 Com este aplicativo de receitas o usuário poderá explorar receitas baseado em diferentes critérios!
 </p>
 
+<h1> Colaboradores </h1>
+
+| [<img src="https://avatars.githubusercontent.com/u/106771747?v=4" width=115><br><sub>Guilherme Santiago</sub>](https://github.com/GuilhermeSantiago18) |  [<img src="https://avatars.githubusercontent.com/u/79483190?v=4" width=115><br><sub>Yan Gustavo</sub>](https://github.com/SimplyNag) |  [<img src="https://avatars.githubusercontent.com/u/102754721?v=4" width=115><br><sub>Lucas</sub>](https://github.com/iamlucasgomes) | [<img src="https://avatars.githubusercontent.com/u/106783810?v=4" width=115><br><sub>Thiago Souza</sub>](https://github.com/thiagoccs) | 
+| :---: | :---: | :---: | :---: |
+
 <h1> 	:fork_and_knife: Tecnologias usadas neste projeto</h1>
 
 <p align="center">
