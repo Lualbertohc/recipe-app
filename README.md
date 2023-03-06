@@ -27,6 +27,7 @@ Com este aplicativo de receitas o usuário poderá explorar receitas baseado em 
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=%23F7DF1E" height=40/>
 <img src="https://img.shields.io/badge/jest-%23F24E1E.svg?style=for-the-badge&logo=jest&logoColor=white" height=40/>
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height=40/>
+<img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" height=40/>
 </p>
 
 <h1> :open_file_folder: Acesso ao projeto</h1>
